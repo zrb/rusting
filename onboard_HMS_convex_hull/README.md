@@ -28,11 +28,11 @@ For each test case, print a single line containing one integer equal to the floo
 
 ## _Sample input_
 
-1
-3
-1 1 2 2
-2 0 0 2
-0 0 0 1
+1  
+3  
+1 1 2 2  
+2 0 0 2  
+0 0 0 1  
 
 ## _Output for sample input_
 
