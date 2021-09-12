@@ -23,11 +23,11 @@ A single integer, ***n***, on a line, followed by ***n*** lines, each containing
 ***1 <= n <= 1000, 1 <= d <= 1,000,000***
 
 ## _Output_
-___
+
 For each test case, print a single line containing one integer, which equals the maximum profit attainable
 
 ## _Sample input_
-___
+
 2  
 1  
 5 10 10  
