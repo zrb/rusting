@@ -1,5 +1,5 @@
 ## _Problem_
----
+
 "Watson, have you ever heard of Prof. Moriarty?"
 
 "You mean the famous scientific criminal as well known to the criminal world as he is unknown to the public"
@@ -23,7 +23,7 @@ I have to find the length of the longest sequence of messages ***<A, B, C, D, E 
 "That is what saves my agent from persecution and of course, alerts me as to what my learned friend is up to.  Once I calculate the length of the longest sequence I look up the corresponding word in Whitaker's Almanac...  Aha I have it!  Yes of course...  However first can you tell me as to how I have solved the problem above?"
 
 ## _Input_
----
+
 
 There are multiple test cases in the input file.  First line of the input consistes of an integer ***n*** specifying the number of test cases.  Each of the next ***n*** lines specifies a test case consisting of two positive integers.  The length of the message ***N***, the size of the alphabet ***K***, on a single line, separated by a single speace.
 
@@ -36,13 +36,13 @@ There are multiple test cases in the input file.  First line of the input consis
 For each test case, print a single line containing one integer, which equals the length of the longest sequence of pair-wise non-equivalent messages modulo ***10^8***
 
 ## _Sample input_
----
+
 2  
 2 1  
 3 1  
 
 Output for sample input
----
+
 1  
 1  
 

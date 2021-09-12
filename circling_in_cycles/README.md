@@ -44,7 +44,7 @@ For each test case, print a single line containing _six integers_ the _i-th_ of 
 2 2 1  
 
 ## _Output for sample input_
----
+
 3 2 2 1 1 2  
 5 3 3 1 1 1  
 
