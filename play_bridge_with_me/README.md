@@ -14,7 +14,7 @@ Oh!  I have discovered a nice property about the houses.  I have found out that 
 	
 ## _Input_
 
-There are multiple test cases.  First line of the input consists of an integer **N** specifying the number of test cases.  Each test case follows the following format:
+There are multiple test cases.  First line of the input consists of an integer **n** specifying the number of test cases.  Each test case follows the following format:
 
 Two positive integers **N**, **M** on a line, where **N** is the number of houses, **M** is the number of bridges, followed by M lines, each containing 3 positive integers **u, v, p** which represents a bridge between house numbers **u** and **v** and the bridge is one-way if **p=1** and two-way if **p=0**.
 
